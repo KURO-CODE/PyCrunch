@@ -1,4 +1,4 @@
-# PyCrunch ![](https://img.shields.io/badge/PiCrunch-Python-blue.svg)
+# PyCrunch ![](https://img.shields.io/badge/PyCrunch-Python-blue.svg)
 Simple WordList Generator (GUI)
 
 ![PyCrunch1.png](https://github.com/KURO-CODE/PyCrunch/blob/master/PyCrunch1.png)
